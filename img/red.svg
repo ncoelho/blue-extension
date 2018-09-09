@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>transactions/red</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="extension" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-615.000000, -431.000000)">
+            <g id="transactions-list" transform="translate(615.000000, 358.000000)">
+                <g id="list" transform="translate(0.000000, 70.000000)">
+                    <g id="transactions/red" transform="translate(0.000000, 3.000000)">
+                        <g id="red">
+                            <circle id="Shape" fill="#F8D2D2" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+                            <path d="M19.6583122,21.2035328 C18.866827,21.2035328 18.2265304,20.5632361 18.2265304,19.7717509 L18.4397857,16.6323346 L14.344964,20.7271563 C13.758777,21.3133434 12.809207,21.3133434 12.2230199,20.7271563 C11.6368328,20.1409692 11.6368328,19.1913992 12.2230199,18.6052121 L16.3051099,14.5231221 L13.1906264,14.736908 C12.3991412,14.736908 11.7583141,14.0960808 11.7583141,13.3045957 C11.7646799,12.5109886 12.4092205,11.8622041 13.2049495,11.8579602 L19.7034035,11.829314 C20.4948887,11.8250701 21.1373072,12.4674887 21.1351853,13.2610958 L21.1049476,19.7579583 C21.1001732,20.5531569 20.4535107,21.1998194 19.6583122,21.2035328 Z" id="Path" fill="#D0021B"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

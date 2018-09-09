@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="80px" viewBox="0 0 118 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.83824061%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#174697" offset="0%"></stop>
+            <stop stop-color="#0C2550" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.8843027%" id="linearGradient-2">
+            <stop stop-color="#3F78DC" offset="0%"></stop>
+            <stop stop-color="#2F5FB3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.72534321%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#8BD7F9" offset="0%"></stop>
+            <stop stop-color="#68BBE1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="extension" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-121.000000, -66.000000)" id="Group">
+            <g transform="translate(121.000000, 66.000000)">
+                <text id="light" font-family="Calibri-Bold, Calibri" font-size="18" font-weight="bold" letter-spacing="-0.2084211" fill="#000000">
+                    <tspan x="86" y="67">light</tspan>
+                </text>
+                <g id="Icon">
+                    <g id="Smooth-Corners">
+                        <g id="Group-Copy-2" stroke-width="1" fill-rule="evenodd">
+                            <rect id="Rectangle-Copy" fill="url(#linearGradient-1)" x="0" y="0" width="80" height="80" rx="17.8125"></rect>
+                            <rect id="Rectangle-Copy-2" fill="url(#linearGradient-2)" x="0" y="17.65625" width="80" height="62.34375" rx="17.8125"></rect>
+                            <rect id="Rectangle-Copy-3" fill="url(#linearGradient-3)" x="0" y="37.65625" width="80" height="42.34375" rx="17.8125"></rect>
+                        </g>
+                        <text id="wallet" font-family="Calibri-Bold, Calibri" font-size="15.3125" font-weight="bold" letter-spacing="-0.0490478612" fill="#FFFFFF">
+                            <tspan x="32.96875" y="64.375">wallet</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
