@@ -24,6 +24,9 @@ body {
 .pad1632 {
 	padding: 16px 32px 16px 32px;
 }
+.pad1632:first-child {
+	padding: 32px 32px 16px 32px;
+}
 .pad24 {
 	padding: 24px;
 }
@@ -93,7 +96,8 @@ body {
 }
 .transactions h2 {
 	font-size: 24px;
-	font-weight: 600;
+	font-weight: bold;
+	margin: 0;
 }
 .memo {
 	font-size: 15px;

@@ -31,6 +31,7 @@ body {
 }
 .btn {
   border-radius: 25px;
+  font-size: 16px;
 }
 .btn-block {
   width: 90%;
